@@ -285,4 +285,3 @@ Apply.
 kubectl apply -f destination-rule.yaml
 ```
 
----
